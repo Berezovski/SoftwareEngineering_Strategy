@@ -1,0 +1,13 @@
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\bin\Debug\netcoreapp3.1\SoftwareEngineering.exe
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\bin\Debug\netcoreapp3.1\SoftwareEngineering.deps.json
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\bin\Debug\netcoreapp3.1\SoftwareEngineering.runtimeconfig.json
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\bin\Debug\netcoreapp3.1\SoftwareEngineering.runtimeconfig.dev.json
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\bin\Debug\netcoreapp3.1\SoftwareEngineering.dll
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\bin\Debug\netcoreapp3.1\SoftwareEngineering.pdb
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\obj\Debug\netcoreapp3.1\SoftwareEngineering.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\obj\Debug\netcoreapp3.1\SoftwareEngineering.AssemblyInfoInputs.cache
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\obj\Debug\netcoreapp3.1\SoftwareEngineering.AssemblyInfo.cs
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\obj\Debug\netcoreapp3.1\SoftwareEngineering.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\obj\Debug\netcoreapp3.1\SoftwareEngineering.dll
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\obj\Debug\netcoreapp3.1\SoftwareEngineering.pdb
+D:\VisualStudio_Projects\SoftwareEngineering\SoftwareEngineering\obj\Debug\netcoreapp3.1\SoftwareEngineering.genruntimeconfig.cache
